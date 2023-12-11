@@ -1,0 +1,94 @@
+<mjml html lang="en">
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, sans-serif" <mj-text align="center" color="#000" font-size="14px" />
+      <mj-section background-color="#F6F6F6" />
+      <mj-image padding="0" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#f6f6f6">
+    <!-- HERO SECTION -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/L5qFP5CS/logo.jpg" width="220px" padding="15px" href="#" alt="englewood animal health center logo"></mj-image>
+      </mj-column>
+      <mj-column width="28%">
+        <mj-image src="https://i.postimg.cc/gjfFHpQZ/phone.jpg" width="60px" padding-top="15px" href="#" alt="logo of a phone"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- HEADER SECTION -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/2SNNqz4p/header-pic.jpg" alt="dog and cat sitting around food"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#00ABCD" padding="15px 0 15px 0">
+      <mj-column>
+        <mj-text color="#fff" font-size="65px" padding-top="35px" font-weight="800">45% Off</mj-text>
+      </mj-column>
+      <mj-column padding="10px 0 0 0">
+        <mj-text color="#fff" font-weight="700" font-size="20px" line-height="28px">On your <span style="text-decoration:underline;"><a href="#" style="color:#fff; font-style:oblique;">first AutoShip</a></span> of Hill's Pet Food!</mj-text>
+        <mj-text color="#fff" font-weight="700" font-size="20px">Use Code: HILLS25</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#00ABCD" padding="0 0 35px 0">
+      <mj-column>
+        <mj-text padding="0" color="#5FE3FA" font-size="18px" font-weight="700">*Limitations apply. See maximum savings below</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- MESSAGE SECTION -->
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text font-size="26px">Hi Nick,</mj-text>
+        <mj-text font-size="24px" line-height="30px">It's the most wonderul time of the year to save on Winston and Olivers food! These discounts definitely made our <span style="font-weight:800;">Nice List,</span> and we are excited to offer them to you. With these exclusive AutoShip savings, plus recurring discounts, you'll be smiling throughout the year.</mj-text>
+        <mj-text font-size="24px" font-weight="800" line-height="30px">These deals wrap up December 31st<br>Shop Today!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text font-size="24px" font-weight="800">For Winston and Oliver</mj-text>
+        <mj-image src="https://i.postimg.cc/jq9bb62S/dog-food.jpg" width="400px" padding-top="5px" href="#" alt="shop hills dog food logo"></mj-image>
+        <mj-image src="https://i.postimg.cc/HxvCjXt3/hills-logo.jpg" width="110px" href="#" padding="80px 0 45px 0" alt="hills brand logo"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text font-size="24px" line-height="30px">Thank you for choosing Englewood Animal Health Center team to be your partners in pet care. It's our privilege and honor to support you and your furry family.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="45px 0 0 0">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/tCxHC1nt/puppy.jpg" width="300px" padding-bottom="0" alt="brown puppy waving hello"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#184369">
+      <mj-column>
+        <mj-text color="#fff" font-size="22px" line-height="26px">If you need help or have any questions, <br>give us a call at (941-271-9444).</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text font-size="22px" line-height="28px">*Save up to 20% on your first AutoShip and up to 5% on recurring orders (maximum discount of $20). Exclusions may apply, see site for details.</mj-text>
+        <mj-text font-size="22px" line-height="28px" padding-top="30px">PLUS use code <span style="font-weight:700;">HILLS25</span> to save an <span style="font-weight:700;">additional</span> 25% on your first AutoShip order of Hills brand pet food (maximum discount of $25). Availible online only through December 31, 2023. While supplies last.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- FOOTER -->
+    <mj-section background-color="#f6f6f6" padding="70px 0 0 0">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/L5qFP5CS/logo.jpg" width="300px" href="#" alt="englewood animal health logo"></mj-image>
+        <mj-text font-size="16px" line-height="20px" padding-bottom="0">This email was sent on behalf of: <br>Englewood Animal Health Center</mj-text>
+        <mj-text font-size="16px" line-height="20px" padding-top="0"><a href="#" target="_blank">1830 Placida Rd<br>Englewood FL</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="12px"><a href="#">Contact Us</a> | <a href="#">Unsubscribe</a> | <a href="#">Privacy Paw-licy</a> </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
